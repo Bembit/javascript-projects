@@ -16,8 +16,6 @@
 #### <a href="/_auth-fb-google-sveltekit">**_auth-fb-google-sveltekit**</a>
 - SvelteKit authentication (facebook and google auth) with Firebase backend.
 
-<img src="/zimages/5.png" width="30%">
-
 #### <a href="/_linktree-clone-sveltekit">**_linktree-clone-sveltekit**</a>
 - Linktree clone site using `Sveltekit and TypeScript.` Signin, image uploads, choosing usernames, addig removing items, drag-n-drops.
 
