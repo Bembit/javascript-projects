@@ -3,6 +3,11 @@
 ### Projects in `vanilla js` and in all the rest of the `whatever.js ecosystem`.
 <br>
 
+#### <a href="https://github.com/Bembit/htmx-playground">**HTMX Playground**</a>
+- Building an interactive HTMX documentation while learning HTMX.
+
+<img src="/zimages/htmx.png" width="30%">
+
 #### <a href="/_image-uploader-nodejs">**_image-uploader-nodejs**</a>
 - Node backend API to upload `photos to Cloudinary.`
 
@@ -10,9 +15,6 @@
 
 #### <a href="/_auth-fb-google-sveltekit">**_auth-fb-google-sveltekit**</a>
 - SvelteKit authentication (facebook and google auth) with Firebase backend.
-
-#### <a href="/_ecommerce-vanilla-javascript">**_ecommerce-vanilla-javascript**</a>
-- Webshop in vanilla and nodejs. Products, cart, users, admin view, all the bells and whistles.
 
 <img src="/zimages/5.png" width="30%">
 
@@ -31,6 +33,9 @@
 - Landing template built with fan favourites only. Bootstrap, PHP, SASS.
 
 <img src="/zimages/4.png" width="30%">
+
+#### <a href="/_ecommerce-vanilla-javascript">**_ecommerce-vanilla-javascript**</a>
+- Webshop in vanilla and nodejs. Products, cart, users, admin view, all the bells and whistles.
 
 #### <a href="/_live-chat-socketio">**_live-chat-socketio**</a>
 - Localhost live chat using socketio.
